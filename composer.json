@@ -1,0 +1,17 @@
+{
+  "name": "yamaguchitakuro/slack_util",
+  "authors": [
+    {
+      "name": "yamaguchitakuro",
+      "email": "banaba0207@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "SlackUtil\\": "src/"
+    }
+  }
+}
